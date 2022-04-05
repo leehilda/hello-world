@@ -6,3 +6,4 @@ Hi! This is Hilda.
 This is week 2 of JFSD course.
 
 We have done github
+There is a working directoy, staging area and lastly git repository.
